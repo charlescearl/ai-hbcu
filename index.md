@@ -1,3 +1,6 @@
+---
+title: Artificial Intelligence at Historically Black Colleges
+---
 Introduction
 ------------
 
