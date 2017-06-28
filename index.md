@@ -1,6 +1,3 @@
-# AI at Historically Black Colleges and Universities (HBCUs)
-
-
 Introduction
 ------------
 
