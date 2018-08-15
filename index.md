@@ -93,7 +93,7 @@ I noted two AI related classes at [Bowie State's CS course listing page](http://
 	- The center was founded as a DOD Center of Excellence in Autonomy. It seems to focus on solving the challenges implied by coordinating fleets of drones, self-driving cars, and other autonomous vehicles. 
 
 #### Coppin State University
-- [Lab for Artificial Intelligence and its Applications (LAIA)] (http://www.laia-csu.org)
+- [Lab for Artificial Intelligence and its Applications (LAIA)](http://www.laia-csu.org)
 LAIA engages undergraduate students majoring (and minoring) in Computer Science, Mathematics, and Psychology and high school students at Coppin Academy High School in the research and development of robotics, artificial intelligence, human-computer interaction, the internet of things (IoT), and culturally relevant learning technologies.  These projects engage our team in designing, developing, and researching various aspects of computing hardware and software – designing them, building them, and learning with them.  All projects have a mixed method research approach where, as we progress with design, interview members of the target population to determine how best to design a feature, build a prototype, and then request that members of the target audience evaluate those prototypes for improvement.  An example project is the design of our Rooftop Garden Robotics project (e.g. a robot designed to maintain and harvest fruits and vegetables on rooftops in Baltimore City).  This project won First Place in the 2016 White House HBCU Maker & Innovation Challenge.  Information about this project and others can be found on our website, listed above.
 -------
 
